@@ -1,0 +1,10 @@
+MISSÃO 2030 - INÍCIO RÁPIDO
+
+1. Abra Missao2030_Jogo.html em um navegador. Não precisa de internet.
+2. Imprima um Caderno_Equipe_Missao2030.pdf por equipe.
+3. O Guia_Professor_Missao2030.pdf contém instruções e respostas.
+4. Faça o treino no jogo antes da primeira rodada.
+5. Os códigos da tela e do papel são os mesmos.
+
+Os PDFs também estão incorporados no HTML, no botão Material para imprimir.
+O progresso fica salvo somente no navegador usado. Não há login.
